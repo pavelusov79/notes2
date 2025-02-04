@@ -13,7 +13,8 @@
     "sass-loader": "^16.0.4",
     "vue": "^3.2.13",
     "vue-router": "^4.5.0",
-    "vue3-carousel": "^0.13.0"
+    "vue3-carousel": "^0.13.0",
+    "vuex": "^4.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",

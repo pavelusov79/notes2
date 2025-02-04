@@ -21,5 +21,5 @@ export const links = [
 ];
 
 export const app = {
-    title: 'Notes2',
+    title: 'Notes 2',
 };
